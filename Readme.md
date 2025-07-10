@@ -1,14 +1,25 @@
-<<<<<<< HEAD
-# dsa-leetcode-daily
-=======
-# Day 1 – Python Revision
+# 📘 DSA + Python Daily Practice
 
-### Topics Covered:
-- Datatypes, Strings, Lists, Tuples, Sets, Dictionaries
-- Conditionals & Loops
-- Functions & List Comprehensions
+Daily log of my Python revision and DSA problem solving journey using LeetCode.
 
-📅 7 July 2025  
-🎯 Goal: Python refresh before starting DSA
 ---
->>>>>>> 6e4f49f55e8c9694c2167c71f4a786cd8d672ea9
+
+## 📅 Day-wise Summary
+
+### ✅ Day 1: Python Revision
+- Datatypes, Strings, Lists, Tuples, Sets, Dictionaries
+- Conditionals, Loops, Functions, List Comprehensions  
+📁 Folder: `Day1_Python_Revision/`
+
+---
+
+### ✅ Day 2: Functions & OOP
+- Functions (default, keyword, lambda, recursion)
+- OOP: Classes, Objects, Constructors, Inheritance  
+📁 Folder: `Day2_Python_Functions_OOP/`
+
+---
+
+➡️ **Coming Next:**  
+Day 3 – LeetCode Array Problems
+
