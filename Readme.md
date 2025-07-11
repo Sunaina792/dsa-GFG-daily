@@ -25,3 +25,10 @@ Daily log of my Python revision and DSA problem solving journey using LeetCode.
 - Problem 2: Palindrome Number  
 📁 Folder: `day_3/`
 
+---
+
+### ✅ Day 4: Arrays & Time Complexity
+- Learned Big O Notation and time complexity basics
+- Practiced array operations: insertion, deletion, searching
+- Implemented Linear and Binary Search with complexity analysis  
+📁 Folder: `day_4/`
