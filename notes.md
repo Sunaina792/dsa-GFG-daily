@@ -29,3 +29,17 @@
 - Realized how OOP helps in structuring complex programs in a logical and reusable way.
 
 ---
+
+## 📅 Day 4 – Arrays & Time Complexity
+
+- 📘 Time Complexity:
+  - O(1): Direct access by index
+  - O(n): Linear Search, deletion from front
+  - O(log n): Binary Search (sorted arrays)
+
+- 🧪 Practiced:
+  - Insertion at end → O(1)
+  - Insertion at specific index → O(n)
+  - Deletion by value → O(n)
+  - Linear Search → O(n)
+  - Binary Search → O(log n) [on sorted arrays]
