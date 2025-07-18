@@ -1,32 +1,6 @@
-# import math 
-
-# def is_prime(n):
-
-#     #check if n is 1 or 0
-#     if n <= 1:
-#         return False
-    
-#     #check if n is 2 and 3 
-#     if n == 2 and n == 3:
-#         return True
-    
-#     #check wether n is divisble by 2 and 3
-#     if n % 2 == 0 or n % 3 == 0:
-#         return False 
-    
-#     #check from 5 to square root of n
-#     i=5
-#     while i <= math.sqrt(n):
-#         if n%i==0 or n%(i+2)==0:
-#             return False
-#         i += 6
-
-# if __name__ == "__main__":
-#     n = 5
-#     if(is_prime(n)):
-#         print("True")
-#     else:
-#         print("False")
+# prime_num.py
+#A number greater than 1 that has only two factors: 1 and itself.
+# Examples: 2, 3, 5, 7, 11, 13, ...
 
 import math
 
