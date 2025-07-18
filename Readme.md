@@ -25,3 +25,11 @@ Daily log of my Python revision and DSA problem solving journey using LeetCode.
 - Problem 2: Palindrome Number  
 📁 Folder: `day_3/`
 
+---
+
+## ✅ Day 4: math-problems
+- Problem 1: prime_number
+- Problem 2: Sieve of Eratosthenes algorithm  
+📁 Folder: `day_4/`
+
+---
