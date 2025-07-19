@@ -49,3 +49,28 @@
 
 ---
 
+## ✅ DSA Day 5 – Math-Based Problems
+
+📁 Folder: `day_5/`
+
+### 🔹 Problem 1: Floor and Ceil Division
+- Learned about floor division (`//`) and ceiling using `math.ceil()`.
+- Practiced finding both floor and ceil values between two integers.
+
+
+### 🔹 Problem 2: Decimal to Binary Conversion
+- Used loops and `% 2` logic to convert a number to binary.
+- Also explored built-in Python function: `bin(n)[2:]`.
+
+
+### 🔹 Problem 3: Vowel Count in String
+- Wrote logic to count vowels in any lowercase string.
+- Used `if char in 'aeiou'` to check for vowels.
+
+
+### 🔹 Problem 4: Triplet LCM
+- Used formula: `LCM(a, b, c) = LCM(LCM(a, b), c)`
+- Applied GCD and LCM logic using `math.gcd()`.
+
+---
+
