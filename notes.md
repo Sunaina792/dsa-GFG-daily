@@ -30,16 +30,22 @@
 
 ---
 
-## 📅 Day 4 – Arrays & Time Complexity
+### 📅 Day 4 — Maths & Combinatronics
 
-- 📘 Time Complexity:
-  - O(1): Direct access by index
-  - O(n): Linear Search, deletion from front
-  - O(log n): Binary Search (sorted arrays)
+**Problem 1: Prime Number Check using Recursion**  
+✅ Implemented a recursive function to check whether a number is prime.  
+📎 Key logic:
+- Base case: return True if n == 2
+- If divisible by current `i`, return False
+- If `i*i > n`, then it is prime
+- Else, recursively check next `i + 1`
 
-- 🧪 Practiced:
-  - Insertion at end → O(1)
-  - Insertion at specific index → O(n)
-  - Deletion by value → O(n)
-  - Linear Search → O(n)
-  - Binary Search → O(log n) [on sorted arrays]
+**Problem 2: Sieve of Eratosthenes Algorithm**  
+✅ Efficiently found all prime numbers up to `n` using Sieve of Eratosthenes.  
+📎 Key logic:
+- Use a boolean array to mark primes
+- Start from `p = 2` and mark all multiples as non-prime
+- Continue till `p*p ≤ n`
+
+---
+
