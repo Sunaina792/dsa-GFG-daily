@@ -36,4 +36,9 @@ Daily log of my Python revision and DSA problem solving journey using LeetCode.
 📁 Folder: `day_4/`
 
 ---
->>>>>>> 0ea70261d27a36335f885b7d03e1f1dc06132f41
+##  ✅ Day 5: math-problems
+- Problem 1: floor-ceil-division
+- Problem 2: decimal to binary conversion
+- Problem 3: string vowel count
+- problem 4: triplet LCM
+📁 Folder: `day_5/`
